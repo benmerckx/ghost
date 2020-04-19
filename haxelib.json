@@ -7,6 +7,7 @@
     "url": "https://austineast.dev/ghost",
     "releasenote": "initial release",
     "version": "0.0.1",
+    "classPath": "ghost",
     "dependencies": {
       "echo": "",
       "ogmo-3": ""
